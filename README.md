@@ -1,6 +1,7 @@
 # PRIR-lab9.2
 prir
 
+Liczenie zbioru Mandelbrota na CPU
 
 Wnioski
 
